@@ -7,12 +7,12 @@ This is a simple login and signup page designed with sliding animations.
 - Basic styling using CSS.
 - Basic form validation using JavaScript.
   
-# Technologies used
+## Technologies used
 1. HTML
 2. CSS
 3. JavaScript
 
-# Usage
+## Usage
 
 1. Clone the repository:
 
@@ -21,7 +21,7 @@ This is a simple login and signup page designed with sliding animations.
 
 2. Open the project in your preferred code editor and open the index.html in a web browser to see the page in action.
 
-# Folder Structure
+## Folder Structure
 - /assets
   - icon.png
   - login.svg
@@ -31,5 +31,5 @@ This is a simple login and signup page designed with sliding animations.
 - styles.css
 - README.md
 
-# Contributing
+## Contributing
 Feel free to contribute to this project by opening issues or creating pull requests. Your feedback and suggestions are welcome!
