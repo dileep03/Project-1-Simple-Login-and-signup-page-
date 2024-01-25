@@ -12,7 +12,7 @@ This is a simple login and signup page designed with sliding animations.
 2. CSS
 3. JavaScript
 
-   ## Usage
+# Usage
 
 1. Clone the repository:
 
